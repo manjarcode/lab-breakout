@@ -1,0 +1,23 @@
+{
+  "name": "lab-breakout",
+  "version": "1.0.0",
+  "description": "Breakout video game JS version",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "author": "slaverise",
+  "dependencies": {
+    "app.css": "^0.1.2",
+    "lodash.clonedeep": "^4.5.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
